@@ -2,8 +2,7 @@ public class HelloWorld {
 
   pubilc static void main(String[] args) {
     
-    System.out.println("WDNMD!");
-  
+    System.out.println("¶þ´ÎÔªupup");  
   
   }
 
